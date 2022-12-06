@@ -27,7 +27,7 @@
 
 	window.Component = Component
 	window.createElement = createReactcitoElement
-	window.MiniReact = {
+	window.Reactcito = {
 		render: renderElement
 	}
 	
